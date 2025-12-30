@@ -285,7 +285,7 @@ Feel free to open issues or discussions if you have any feedback, feature sugges
 
 ## 🙌 Support & Star
 
-***If you find this project helpful, please give it a star ⭐ to support more such educational initiatives!***
+***If you find this project helpful, please give it a star ⭐ to support more such educational initiatives.!***
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
